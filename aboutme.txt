@@ -3,8 +3,5 @@ Name : Md. Promisur Rahman Munsi
 Occupation: Student
 Phone : 01912535280
 gmail:rahmanpromisur@gamil.com
-<<<<<<< HEAD
 sex:Male
-=======
 love status:single
->>>>>>> b078f95660c56dcdfc56dc45e7c5ab9b0ce0f348
